@@ -1,0 +1,26 @@
+
+body{
+    background-image: url(wp9764009-login-page-wallpapers.jpg) ;
+    padding: 6% 0% 0% 1%;
+    color: white;
+}
+
+h1{
+    font-size: 80px;
+    background: linear-gradient(to right,#31f334,#fe015a 35%,rgb(3, 45, 255));
+    background-size: 200% auto;
+    -webkit-background-clip: text;
+    color: transparent;
+    animation: gradient 3s linear infinite;
+}
+@keyframes gradient {
+    0%{
+        background-position: 0% 75%;
+    }
+    5%{
+        background-position: 100% 30%;
+    }
+    100%{
+        background-position: 0% 70%;
+    }
+}

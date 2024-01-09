@@ -1,0 +1,14 @@
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+body{
+    background: linear-gradient(to right,#FF512F , #DD2476
+
+    );
+}
+input{
+    background-color: cornsilk;
+}
+select{
+    background-color: beige;
+}
